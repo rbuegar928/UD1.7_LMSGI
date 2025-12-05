@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sistema_inventario>
+    <zona_almacen>
+        <codigo>A1</codigo>
+        <estante>
+            <nivel>3</nivel>
+                <item>
+                    <ref>X-99</ref>
+                    <estado>roto</estado>
+                    <nombre>Monitor CRT</nombre>
+                </item>
+                <item>
+                    <ref>X-100</ref>
+                    <estado>nuevo</estado>
+                    <nombre>Teclado Mecánico</nombre>
+                </item>
+        </estante>
+        <responsable>
+            <nombre>Juan</nombre>
+            <permisos>
+                <permiso>admin</permiso>
+                <permiso>editor</permiso>
+            </permisos>
+        </responsable>
+    </zona_almacen>
+</sistema_inventario>
