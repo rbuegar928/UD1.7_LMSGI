@@ -1,0 +1,58 @@
+[
+  {
+    "id": "futsal001",
+    "moneda": "EUR",
+    "nombre": "Nike Mercurial Superfly 10 Academy",
+    "precio": 94.99,
+    "enOferta": true
+  },
+  {
+    "id": "fut001",
+    "moneda": "EUR",
+    "nombre": "Nike Phantom 6 High Elite",
+    "precio": 279.99,
+    "enOferta": true
+  },
+  {
+    "id": "futsal002",
+    "moneda": "EUR",
+    "nombre": "Nike Total 90",
+    "precio": 109.99,
+    "enOferta": false
+  },
+  {
+    "id": "fut002",
+    "moneda": "EUR",
+    "nombre": "Nike Mercurial Superfly 10 Elite Kylian Mbappé",
+    "precio": 289.99,
+    "enOferta": true
+  },
+  {
+    "id": "futsal003",
+    "moneda": "EUR",
+    "nombre": "Nike Mercurial Superfly 10 Academy Kylian Mbappé",
+    "precio": 99.99,
+    "enOferta": true
+  },
+  {
+    "id": "fut003",
+    "moneda": "EUR",
+    "nombre": "Nike Phantom 6 Low Elite EA SPORTS FC",
+    "precio": 279.99,
+    "enOferta": true
+  },
+  {
+    "id": "fut004",
+    "moneda": "EUR",
+    "nombre": "Nike Phantom 6 Low Elite Erling Haaland",
+    "precio": 279.99,
+    "enOferta": false
+  },
+  {
+    "id": "fut005",
+    "moneda": "EUR",
+    "nombre": "Nike Phantom 6 High Elite",
+    "precio": 289.99,
+    "enOferta": true
+  }
+]
