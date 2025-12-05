@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-stylesheet type="text/xsl" href="micatalogo_resumen.xsl"?>
+
+<!-- La condición de “bien formado” es algo esencial para el procesamiento de la información del XML ya que en este formato tenemos una sintaxis estricta
+Esta condición nos ayuda a prevenir errores que podamos cometer los cuales impidan el correcto procesamiento del mismo documento
+En resumen, esta condición de “bien formado” es necesaria para el correcto funionamiento de nuestro archivo sin errores graves que puedan afectar al mismo
+-->
+<catalogo>
+<producto id="futsal001">
+    <nombre> Nike Mercurial Superfly 10 Academy</nombre>
+    <descripcion>Botas de fútbol sala rosas.</descripcion>
+    <precio moneda="EUR">94.99</precio>
+    <categoria>Futsal</categoria>
+    <imagen url="https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/80245829-4355-4627-bf67-daa8fe79215e/ZM+SUPERFLY+10+ACADEMY+IC.png"/>
+    <enlace url="https://www.nike.com/es/t/mercurial-superfly-10-academy-botas-de-futbol-de-perfil-alto-ic-13SMT1hO/FQ8332-600"/>
+</producto>
+<producto id="fut001">
+    <nombre>Nike Phantom 6 High Elite</nombre>
+    <descripcion>Botas de fútbol césped con diseño temático oscuro.</descripcion>
+    <precio moneda="EUR">279.99</precio>
+    <categoria>Fut</categoria>
+    <imagen url="https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/14e470c8-b697-4111-bd55-dbb9200df4d2/PHANTOM+6+HIGH+ELITE+FG.png"/>
+    <enlace url="https://www.nike.com/es/t/phantom-6-high-elite-botas-de-futbol-terreno-firme-Dn7eUGR8/HJ2147-003"/>
+</producto>
+<producto id="futsal002">
+    <nombre>Nike Total 90</nombre>
+    <descripcion>Botas de fútbol sala con diseño retro.</descripcion>
+    <precio moneda="EUR">109.99</precio>
+    <categoria>Futsal</categoria>
+    <imagen url="https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/8de527ed-89d0-4f38-86b9-468142ad7555/WMNS+NIKE+T90.png"/>
+    <enlace url="https://www.nike.com/es/t/total-90-zapatillas-q09id5md/IM7595-001"/>
+</producto>
+<producto id="fut002">
+    <nombre>Nike Mercurial Superfly 10 Elite "Kylian Mbappé"</nombre>
+    <descripcion>Botas de fútbol basadas en las originales de Kylian Mbappé.</descripcion>
+    <precio moneda="EUR">289.99</precio>
+    <categoria>Fut</categoria>
+    <imagen url="https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/4d9bd1fc-6192-4c61-a77b-1e8b72883abf/ZM+SUPERFLY+10+ELITE+KM+FG.png"/>
+    <enlace url="https://www.nike.com/es/t/mercurial-superfly-10-elite-kylian-mbappe-botas-de-futbol-de-perfil-alto-fg-JTNsdX/FQ8692-801"/>
+</producto>
+<producto id="futsal003">
+    <nombre>Nike Mercurial Superfly 10 Academy "Kylian Mbappé"</nombre>
+    <descripcion>Recreación tipo botas de fútbol sala de las originales de Kylian Mbappé.</descripcion>
+    <precio moneda="EUR">99.99</precio>
+    <categoria>Futsal</categoria>
+    <imagen url="https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/b4d8cf2c-9d3d-48f7-a2e5-1ae255297024/ZM+SUPERFLY+10+ACADEMY+KM+TF.png"/>
+    <enlace url="https://www.nike.com/es/t/mercurial-superfly-10-academy-kylian-mbappe-botas-de-futbol-de-perfil-alto-moqueta-5cZkHR/FQ8333-801"/>
+</producto>
+<producto id="fut003">
+    <nombre>Nike Phantom 6 Low Elite "EA SPORTS FC"</nombre>
+    <descripcion>Botas de fútbol césped con diseño de colores verdes preciosos.</descripcion>
+    <precio moneda="EUR">279.99</precio>
+    <categoria>Fut</categoria>
+    <imagen url="https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/16d8cfff-0017-4d6f-9543-e7f380e544ba/PHANTOM+6+LOW+ELITE+FG+SE.png"/>
+    <enlace url="https://www.nike.com/es/t/phantom-6-low-elite-ea-sports-fc-botas-de-futbol-terreno-firme-nZZLbVum/HQ2333-900"/>
+</producto>
+<producto id="fut004">
+    <nombre>Nike Phantom 6 Low Elite "Erling Haaland"</nombre>
+    <descripcion>Botas de fútbol basadas en las originales de Erling Haaland.</descripcion>
+    <precio moneda="EUR">279.99</precio>
+    <categoria>Fut</categoria>
+    <imagen url="https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/4aa83f9f-3aeb-4740-b107-5504ad639cd3/PHANTOM+6+LOW+ELITE+FG+EH.png"/>
+    <enlace url="https://www.nike.com/es/t/phantom-6-low-elite-erling-haaland-botas-de-futbol-terreno-firme-16OBx0AI/HQ2332-800"/>
+</producto>
+<producto id="fut005">
+    <nombre>Nike Phantom 6 High Elite</nombre>
+    <descripcion>Botas de fútbol con una preciosa combinación azul-blanco muy llamativas y bonitas</descripcion>
+    <precio moneda="EUR">289.99</precio>
+    <categoria>Fut</categoria>
+    <imagen url="https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/dcb0efd6-b0a6-4ae9-b47b-f0665a9a1758/PHANTOM+6+HIGH+ELITE+FG+LV8.png"/>
+    <enlace url="https://www.nike.com/es/t/phantom-6-high-elite-botas-de-futbol-terreno-firme-ozzrjVLR/HQ2328-400"/>
+</producto>
+
+</catalogo>
+
+<!--
+Esta conversión es necesaria para el procesamiento directo de la información que conteniamos en nuestro documento HTML, ya que en nuestro HTML tenemos nuestro procesamiento gráfico pra la muestra de
+imágenes con sus respectivos formatos que hemos añadido a lo largo de todo el documento.
+Además, ahorramos todas las etiquetas definidas en el otro documento, como por ejemplo <h1>,<h2>,<h2>; que han sido sustituidos por una única simple: <nombre> , o <p> que lo hemos sustituido por <descripción>;
+Además de todos estos también hemos eliminado otras etiquetas como <ul><li>, <body> o <main>, clases como el .destacado o .producto-img y algún selector de id como #pie-pagina
+En conclusión, a través de este archivo, mi XML dejamos el grueso de la información mucho más clara y visible que en nuestro HTML, ya que tenemos a través de nuestro archivo generado todo en forma de más en bloque
+y con una organización más clara de la información.
+-->
